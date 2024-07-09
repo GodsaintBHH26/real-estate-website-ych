@@ -14,7 +14,11 @@ export default {
       },
       backgroundImage:{
         'team-bg-image': "url('/public/teams/teams.png')"
-      }
+      },
+      colors: {
+        'base-color': '#C4C4C4',
+        'bold-color': '#242527'
+      },
     },
   },
   plugins: [],
